@@ -1,0 +1,115 @@
+﻿.card-Tabla {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.card-body button.btn-Agregar {
+    color: white;
+    background-color: #3498db;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+    .card-body button.btn-Agregar:hover {
+        background-color: #1b4f72;
+        transform: translateY(-2px);
+    }
+
+.card-body button.btn-sm {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+    .card-body button.btn-sm:hover {
+        transform: translateY(-2px);
+    }
+
+div.card {
+    color: black;
+    background-color: #e5e7e9;
+    border-radius: 10px;
+    border-color: #52be80;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.card-header {
+    color: black !important;
+    background-color: #52be80;
+}
+
+.breadcrumb {
+    background-color: #52be80;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.breadcrumb-item a {
+    color: black;
+}
+
+.table {
+    border-collapse: separate;
+    border-spacing: 5px;
+    width: 100%;
+}
+
+    .table th {
+        background-color: #eb984e;
+        border-color: #fadbd8;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    }
+
+    .table td {
+        background-color: #ffffff;
+        border-color: #ffffff;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    }
+
+    .table th, .table td {
+        border-radius: 10px;
+        padding: 8px;
+        text-align: center;
+    }
+
+.modal-body {
+    background-color: #e5e7e9;
+}
+
+.modal-footer {
+    background-color: #e5e7e9;
+}
+
+.modal-header {
+    background-color: #52be80;
+}
+
+.modal-footer button:hover {
+    transform: translateY(-2px);
+}
+
+.modal-header button:hover {
+    transform: translateY(-2px);
+}
+
+.modal-body input, .modal-body select, .modal-body textarea {
+    border-radius: 5px;
+    border: 1px solid #d5d8dc;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.modal-footer button.btn-Cerrar {
+    background-color: #eb984e;
+    color: white;
+}
+
+.modal-footer button.btn-Guardar {
+    background-color: #5dade2;
+    color: white;
+}
+
+.modal-content {
+    border-radius: 100px;
+}

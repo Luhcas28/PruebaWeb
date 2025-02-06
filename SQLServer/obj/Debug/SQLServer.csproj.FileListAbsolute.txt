@@ -1,0 +1,6 @@
+C:\Users\jjvc2\source\repos\PruebaWeb\SQLServer\bin\Debug\SQLServer.dll
+C:\Users\jjvc2\source\repos\PruebaWeb\SQLServer\bin\Debug\SQLServer.pdb
+C:\Users\jjvc2\source\repos\PruebaWeb\SQLServer\obj\Debug\SQLServer.csproj.AssemblyReference.cache
+C:\Users\jjvc2\source\repos\PruebaWeb\SQLServer\obj\Debug\SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\jjvc2\source\repos\PruebaWeb\SQLServer\obj\Debug\SQLServer.dll
+C:\Users\jjvc2\source\repos\PruebaWeb\SQLServer\obj\Debug\SQLServer.pdb
